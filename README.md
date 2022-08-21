@@ -16,7 +16,7 @@ Apaixonado por programação desde meus 9 anos de idade
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6BqHVYDY-r5i2RkYagmWsw)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phnevesbr/)
-[![Gmail](https://img.shields.io/badge/Gmail-f26e1d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phnevesbr/)
+[![Gmail](https://img.shields.io/badge/Gmail-f26e1d?style=for-the-badge&logo=instagram&logoColor=white)](mailto:pedro.le30@gmail.com)
 
 ### 🛠️ Tecnologias:
 
@@ -26,5 +26,6 @@ Apaixonado por programação desde meus 9 anos de idade
 <img align="center" alt="PH-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="PH-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="center" alt="PH-lara" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-
 </div>
+
+  ![Snake animation](https://github.com/phnevesbr/rafaballerini/blob/output/github-contribution-grid-snake.svg)
