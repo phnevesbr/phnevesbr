@@ -26,6 +26,7 @@ Apaixonado por programação desde meus 9 anos de idade
 <img align="center" alt="PH-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="PH-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="center" alt="PH-lara" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+<img align="center" alt="PH-lara" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 </div>
 
   ![Snake animation](https://github.com/phnevesbr/phnevesbr/blob/main/github-contribution-grid-snake.svg)
