@@ -15,7 +15,7 @@ Apaixonado por programação desde meus 9 anos de idade
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6BqHVYDY-r5i2RkYagmWsw)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phnevesbr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phnevs/)
 [![Gmail](https://img.shields.io/badge/Gmail-f26e1d?style=for-the-badge&logo=instagram&logoColor=white)](mailto:pedro.le30@gmail.com)
 
 ### 🛠️ Tecnologias:
