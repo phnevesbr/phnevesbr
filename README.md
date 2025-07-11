@@ -5,10 +5,6 @@ Me chamo **Pedro Henrique** e sou desenvolvedor web 💻
 Desde os meus **9 anos de idade**, sou apaixonado por programação.  
 Gosto de transformar ideias em soluções criativas e funcionais para a web.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phnevesbr&show_icons=true&theme=tokyonight"/>
-</div>
-
 ### ❤️ Minhas redes sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
