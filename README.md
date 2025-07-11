@@ -1,8 +1,9 @@
 ## 🙋‍♂️ Olá, Bem-Vindo(a)
 
-Eu me chamo Pedro Henrique sou desenvolvedor web
+Me chamo **Pedro Henrique** e sou desenvolvedor web 💻
  
-Apaixonado por programação desde meus 9 anos de idade
+Desde os meus **9 anos de idade**, sou apaixonado por programação.  
+Gosto de transformar ideias em soluções criativas e funcionais para a web.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phnevesbr&show_icons=true&theme=tokyonight"/>
